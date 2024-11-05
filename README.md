@@ -20,6 +20,6 @@ Here are some ideas to get you started:
   <img src="https://github.com/ville6000/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" alt="Overview of my activity" />
 </picture>
 <picture>
-  <source srcset="https://raw.githubusercontent.com/ivuorinen/github-stats/master/generated/languages.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github.com/ville6000/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)" />
   <img src="https://github.com/ville6000/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" alt="Languages I have been using" />
 </picture>
